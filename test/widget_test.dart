@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:mycontactapplication/src/app.dart';
+import 'package:my_contact_application/src/app.dart';
 
 
 void main() {
